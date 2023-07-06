@@ -1,0 +1,90 @@
+body{
+
+background-image: url(images/R.jpg);
+
+
+
+}
+
+.Centro{
+
+text-align: center;
+
+}
+
+
+
+
+.ajn {
+
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.sand{
+text-align: center;
+
+
+}
+
+
+body{
+
+
+background-image: url(images/El_texto_del_parrafo_2.png);
+background-position: center;
+background-repeat: no-repeat;
+background-color:white;
+background-attachment: fixed;
+
+
+}
+
+
+* {
+
+box-sizing:content-box;    
+padding:0;
+margin:0;
+
+}
+
+body{
+
+background-color: black;
+
+}
+
+
+#container{
+
+background-color: blueviolet;
+position: relative;
+width: 80px;
+height: 40px;
+box-shadow: inset 4px 4px 6px #cecece
+                  -4px -4px 6px #ffff;
+ margin-top:  350px;
+ cursor: pointer;
+
+
+
+
+
+}
+
+.toggle {
+
+position: absolute;
+top: 0;
+left: 0;
+width: 40px;
+height: 40px;
+transform: scale(.7);
+background-color:Linear-gradient(#D8D8D8,#FFFFFF);
+border-radius: 25px;
+box-shadow:  3px 3px 8px #c4c4c4,
+             -3px -3px 8px #fff;
+
+
+}
